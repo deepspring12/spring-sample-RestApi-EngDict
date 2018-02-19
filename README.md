@@ -4,5 +4,5 @@
 
 This project uses Mysql. The english dictionary database used in this sample can be found here:
 	
-	https://sourceforge.net/projects/mysqlenglishdictionary/
+	(https://sourceforge.net/projects/mysqlenglishdictionary/)
 
