@@ -2,7 +2,5 @@
 
 ### Description: A Rest api to lookup, add, update and delete words in a dictionary.
 
-This project uses Mysql. The english dictionary database used in this sample can be found here:
-	
-	(https://sourceforge.net/projects/mysqlenglishdictionary/)
+This project uses Mysql. The english dictionary database used in this sample can be found on[sourceforge](https://sourceforge.net/projects/mysqlenglishdictionary/)
 
